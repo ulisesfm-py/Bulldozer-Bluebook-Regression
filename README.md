@@ -7,6 +7,8 @@ Using scikit-learn, pandas, seaborn and numpy, we analyze a timeseries dataset o
 
 ## 2. Data
 
+**You can download the data from:** [this link](https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip)
+
 Looking at the dataset from Kaggle, we know it is a time series problem. 
 
 In this case, it's historical sales data of bulldozers. Including things like, model type, size, sale date and more.
